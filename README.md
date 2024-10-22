@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,blender,kali,python)](https://skillicons.dev)
 
 
 - 👋 Hi, I’m @Unaioff
