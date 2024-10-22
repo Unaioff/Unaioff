@@ -1,15 +1,5 @@
-[![My Skills](https://skillicons.dev/icons?i=unity,blender,kali,python)](https://skillicons.dev)
+Knoweledge of:
+[![My Skills](https://skillicons.dev/icons?i=unity,blender,kali,python,linux,vscode)](https://skillicons.dev)
 
-
-- 👋 Hi, I’m @Unaioff
-- 👀 I’m interested in Cybersecurity...
-- 🌱 I’m currently learning Python and Java...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: Walmart Bag...
-- ⚡ Fun fact: ...
-
-<!---
-Unaioff/Unaioff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Want to learn:
+[![My Skills](https://skillicons.dev/icons?i=java,redhat,discordjs)](https://skillicons.dev)
