@@ -1,45 +1,33 @@
 # Hola, soy <YOUR NAME>! 👋
 
-Soy una 
+Soy un estudiante de grado medio apasionado por la tecnología, la ciberseguridad y la robótica. Me encanta aprender por iniciativa propia y aplicar lo que descubro en proyectos reales.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Unai's Stats](https://github-readme-stats.vercel.app/api?username=Unaioff&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+## 🚀 Proyectos destacados
+- Finalista en el ASTI Robotics Challenge 2025, desarrollando un robot multifunción con control remoto vía UDP y mando PS4.
+- Desarrollo de scripts en Python para automatización y comunicación entre dispositivos.
+- Simulación de redes con Packet Tracer y diseño de entornos virtuales.
 
+## 🧠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,linux,git)](https://skillicons.dev)
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+## 🌱 Actualmente explorando
 
+- Ciberseguridad ofensiva y análisis de vulnerabilidades.
+- Ingieneria inversa con Ghidra y NASM
+- Criptografia
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## 🏆 Logros
 
-## 🌱 Currently Exploring
+- Finalista nacional en ASTI Robotics Challenge 2025.
+- Participación activa en proyectos colaborativos y retos tecnológicos.
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+## 📬 Contacto
 
- ## 🏆 Achievements
+- [LinkedIn](https://www.linkedin.com/in/unai-urizarbarrena-de-la-torre-879690389/)
+- [GitHub](https://github.com/Unaioff)
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
-
-## 📬 Get in Touch
-
-- Connect with me on 
-- Read more of my articles on 
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-
-
-- 🌱 I’m currently learning ...
-Assembly, GHidra
-Pentesting
 
 
 
