@@ -10,7 +10,7 @@ Soy un estudiante de grado medio apasionado por la tecnología, la cibersegurida
 - Simulación de redes con Packet Tracer y diseño de entornos virtuales.
 
 ## 🧠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,linux,nasm,bash,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,linux,kali,bash,vscode)](https://skillicons.dev)
 
 
 ## 🌱 Actualmente explorando
